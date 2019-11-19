@@ -1,4 +1,3 @@
-# Tuto NodeJS
+# WebService - NodemMailer
 
-## How to use
-This tuto will help you to create an HTTP server in nodeJS. The server will response on requests send on it with the value of the header "HeaderKey" and the body of the request.
+This is the web service ii created for the contact form in my portfolio (https://titos.dev) to send me a mail with the content of the form
